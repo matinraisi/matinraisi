@@ -29,23 +29,6 @@
     </span>
 </p>
 
-<!--
-<p align="center">
-<a href="https://github.com/NobleMajo">
-  <img align="center" style="width: 100%;" src="https://github-profile-trophy.vercel.app/?username=NobleMajo&theme=onedark&row=1&column=7" alt="NobleMajo" />
-</a>
-</p>
--->
-
-<!--
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="left" style="width: 35%;" />
-        <img class="cropimg" align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/1merged.png" alt="NobleMajo Avatar with dark background" style="width: 29%;" />
-        <img align="right" style="width: 35%;" />
-    </span>
-</p>
--->
 
 <h1 align="left"><u>Recommendations</u></h1>
 
@@ -53,26 +36,6 @@ Some Technologies that I use and can recommend.<br>
 Has no particular order and I have tested far more.<br>
 
 <p align="left">
-    <a href="https://www.typescriptlang.org/" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg"
-    alt="typescript" width="92" height="92" />
-    </a>
-    <a href="https://expressjs.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg"
-    alt="express" width="92" height="92" />
-    </a>
-    <a href="https://nodejs.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg"
-    alt="nodejs" width="92" height="92" />
-    </a>
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg"
-    alt="javascript" width="92" height="92" />
-    </a>
-    <a href="https://kubernetes.io" target="_blank">
-    <img src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" alt="kubernetes" width="92"
-    height="92" />
-    </a>
     <a href="https://www.docker.com/" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg"
     alt="docker" width="92" height="92" />
@@ -96,56 +59,16 @@ Has no particular order and I have tested far more.<br>
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
     alt="postgresql" width="92" height="92" />
     </a>
-    <a href="https://redis.io" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg"
-    alt="redis" width="92" height="92" />
-    </a>
-    <a href="https://golang.org" target="_blank">
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go"
-    width="92" height="92" />
-    </a>
 </p>
-
-<!--
-<h1 align="left"><u>Spotify Music</u></h1>
-
-This is what I last heard on Spotify.<br>
-
-<a align="center" width="100%" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-        <img align="center" width="100%" src="[https://spotify-github-profile.vercel.app/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&amp;cover_image=true&amp;theme=novatorem&amp;show_offline=false&amp;background_color=0D1117&amp;interchange=false&amp;bar_color=21D05D&amp;bar_color_cover=false](https://spotify-github-profile.kittinanx.com/api/view?uid=31ps5lujrgihfsl2db4rn5gpiiqa&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)" alt="spotify-music">
-</a><br>
--->
 
 <h1 align="left"><u>Contact me</u></h1>
 
 <table>
     <tbody>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://cdn.discordapp.com/icons/759424063130304592/0c249ee1a23bd231f5c65c3248558a4f.png?size=1024" height="64" width="64" alt="P" />
-            </td>
-            <td width="100px" align="center"><a href="https://discord.gg/Urh6EfJj7N" target="blank">CodeHub<br><i>(server)</i></a></td>
-            <td>A large Discord server with a focus on development, technologies, your own projects and 😋 your skill issues. I am one of the 3 admins of this server.</td>
-        </tr>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://avatars.githubusercontent.com/u/66523802?s=1024&v=4" height="64" width="64" alt="C" />
-            </td>
-            <td width="100px" align="center"><a href="https://dc.gg/majo" target="blank">CoreUnit.NET<br><i>(server)</i></a></td>
-            <td>A multilingual discord server with a focus on my gaming and music twitch community (de/en).</td>
-        </tr>
-        <tr>
-            <td width="92px">
-                <img align="center" src="https://discord.com/assets/3437c10597c1526c3dbd98c737c2bcae.svg" height="64" width="64" alt="D" />
-            </td>
-            <td width="100px" align="center"><a href="https://discord.com/users/422136037503008808" target="blank">Discord<br><i>(direct)</i></a></td>
-            <td>You can reach me here if you need help or want to get in touch.</td>
-        </tr>
-        <tr>
             <td width="92px">
                 <img align="center" src="https://raw.githubusercontent.com/NobleMajo/NobleMajo/main/telegram-icon.png" height="64" width="64" alt="D" />
             </td>
-            <td width="100px" align="center"><a href="https://telegram.me/NobleMajo" target="blank">Telegram<br><i>(direct)</i></a></td>
+            <td width="100px" align="center"><a href="https://telegram.me/MatinRaisi" target="blank">Telegram<br><i>(direct)</i></a></td>
             <td>You can sometimes reach me here.</td>
         </tr>
     </tbody>
