@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/100185919?v=4" alt="matinraisi" height="32" />
     <u>
         About me
-    </u>
+    </u>mmm
 </h1>
 
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
@@ -11,7 +11,6 @@
     - 💬 Ask me about: <b><i>pythob, docker, <br> django, web, wordpress or my projects</i></b><br>
     - 📫 You can reach me <b><a href="https://github.com/matinraisi#contact-me">here</a></b><br>
     - 🌟 Checkout my <a href="https://github.com/matinraisi?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 💡 Feel free to look at my last <a href="https://github.com/matinraisi/">idea</a><br>
     - 🔗 Following me, is <b><i>FREE</i></b>...
 </p>
 
