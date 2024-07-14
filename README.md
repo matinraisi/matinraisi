@@ -70,10 +70,3 @@ Has no particular order and I have tested far more.<br>
 
 <br><br>
 <hr>
-<p align="center">
-    <a href="https://github.com/NobleMajo?tab=repositories">projects</a> | 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/HTTP/Status/418">http status 418</a> | 
-    <a href="https://github.com/NobleMajo#contect-me">contact</a> | 
-    <a href="https://github.com/NobleMajo#langs--techs">techs</a>
-</p>
-<hr>
