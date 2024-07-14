@@ -15,6 +15,11 @@
 </p>
 
 <br>
+<h1 align="left"><u>Github stats</u></h1>
+
+<p align="center" style="width: 100%;">
+    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
+</p>
 <h1 align="left"><u>Recommendations</u></h1>
 
 Some Technologies that I use and can recommend.<br>
