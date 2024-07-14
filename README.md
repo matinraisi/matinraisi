@@ -8,28 +8,14 @@
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
-    - 💬 Ask me about: <b><i>typescript, docker, <br> devops, nodejs, web, cli or my projects</i></b><br>
-    - 📫 You can reach me <b><a href="https://github.com/NobleMajo#contact-me">here</a></b><br>
-    - 🌟 Checkout my <a href="https://github.com/NobleMajo?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
-    - 💡 Feel free to look at my last <a href="https://github.com/NobleMajo/hivessh">idea</a><br>
+    - 💬 Ask me about: <b><i>pythob, docker, <br> django, web, wordpress or my projects</i></b><br>
+    - 📫 You can reach me <b><a href="https://github.com/matinraisi#contact-me">here</a></b><br>
+    - 🌟 Checkout my <a href="https://github.com/matinraisi?tab=repositories">projects</a> and leave a <b><i>STAR</i></b><br>
+    - 💡 Feel free to look at my last <a href="https://github.com/matinraisi/">idea</a><br>
     - 🔗 Following me, is <b><i>FREE</i></b>...
 </p>
 
 <br>
-<h1 align="left"><u>Github stats</u></h1>
-
-<p align="center" style="width: 100%;">
-    <img align="center" style="width: 100%;" src="https://raw.githubusercontent.com/noblemajo/noblemajo/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only" alt="NobleMajo" />
-</p>
-
-<p align="center" style="width: 100%;">
-    <span style="width: 100%;">
-        <img align="center" style="width: 49%;" src="https://github-readme-streak-stats.herokuapp.com/?user=NobleMajo&theme=onedark" alt="NobleMajo" />
-        <img align="center" style="width: 49%;" src="https://github-readme-stats.vercel.app/api?username=NobleMajo&show_icons=true&locale=en&theme=onedark" alt="NobleMajo" />
-    </span>
-</p>
-
-
 <h1 align="left"><u>Recommendations</u></h1>
 
 Some Technologies that I use and can recommend.<br>
@@ -58,6 +44,10 @@ Has no particular order and I have tested far more.<br>
     <a href="https://www.postgresql.org" target="_blank">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg"
     alt="postgresql" width="92" height="92" />
+    </a>
+    <a href="https://www.python.org" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0a/Python.svg/2048px-Python.svg.png"
+    alt="python" width="92" height="92" />
     </a>
 </p>
 
