@@ -2,7 +2,7 @@
     <img src="https://avatars.githubusercontent.com/u/100185919?v=4" alt="matinraisi" height="32" />
     <u>
         About me
-    </u>mmm
+    </u>
 </h1>
 
 <img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
