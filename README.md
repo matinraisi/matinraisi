@@ -1,28 +1,10 @@
 <div style="width: 100%;" align="center">
     <p style="width: 100%;" align="center">A passionate fullstack typescript and devops engineer from germany</p>
-    <!--
     <a target="_blank" rel="noopener noreferrer" href="https://www.twitch.tv/noblemajo">
         <img src="https://img.shields.io/badge/Twitch-a?logo=twitch&logoColor=white&color=B983F6&style=for-the-badge" alt="Twitch" />
     </a>
-    -->
-    <a target="_blank" rel="noopener noreferrer" href="https://discord.com/invite/GJSbyJ5Jpe">
-        <img src="https://img.shields.io/badge/discord-a?logo=discord&color=5764f2&logoColor=white&style=for-the-badge" alt="Discord Server" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://www.npmjs.com/~noblemajo">
-        <img src="https://img.shields.io/badge/npm-a?logo=npm&logoColor=white&color=cc3630&style=for-the-badge" alt="NPM" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://hub.docker.com/u/noblemajo">
-        <img src="https://img.shields.io/badge/dockerhub-a?logo=docker&logoColor=white&color=0db7ed&style=for-the-badge" alt="DockerHub" />
-    </a>
-    <!--
-    <a target="_blank" rel="noopener noreferrer" href="https://www.youtube.com/@noblemajo">
-        <img src="https://img.shields.io/badge/youtube-a?logo=youtube&color=FF1616&logoColor=white&style=for-the-badge" alt="YouTube" />
-    </a>
-    -->
-    <a target="_blank" rel="noopener noreferrer" href="https://open.spotify.com/user/31ps5lujrgihfsl2db4rn5gpiiqa">
-        <img src="https://img.shields.io/badge/spotify-a?logo=youtube&color=21D05D&logoColor=white&style=for-the-badge" alt="Spotify" />
-    </a>
-    <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/NobleMajo">
+
+    <a target="_blank" rel="noopener noreferrer" href="https://telegram.me/MatinRisi">
         <img src="https://img.shields.io/badge/telegram-a?logo=telegram&color=30ADED&logoColor=white&style=for-the-badge" alt="Telegram" />
     </a>
 </div>
