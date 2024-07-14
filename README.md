@@ -1,5 +1,5 @@
 <h1 align="left">
-    <img src="[https://avatars.githubusercontent.com/u/39386799?s=256&v=4](https://avatars.githubusercontent.com/u/100185919?v=4)" alt="matinraisi" height="32" />
+    <img src="https://avatars.githubusercontent.com/u/100185919?v=4" alt="matinraisi" height="32" />
     <u>
         About me
     </u>
