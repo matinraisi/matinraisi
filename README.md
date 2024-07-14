@@ -5,7 +5,7 @@
     </u>
 </h1>
 
-<img align="right" style="width: 44%; display: inline-block;" src="https://github-readme-stats.vercel.app/api/top-langs?username=NobleMajo&show_icons=true&locale=en&layout=compact&theme=onedark" alt="NobleMajo" />
+
 <p align="left">
     - ⚡ My approach: <b>learn from mistakes</b><br>
     - 💬 Ask me about: <b><i>pythob, docker, <br> django, web, wordpress or my projects</i></b><br>
